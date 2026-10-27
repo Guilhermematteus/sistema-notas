@@ -16,6 +16,9 @@ Projeto desenvolvido com o objetivo de praticar os fundamentos da **Programaçã
 ## 🛠️ Como Executar o Projeto
 Certifique-se de ter o **JDK (Java Development Kit)** instalado em sua máquina.
 
+## 🛠️ Como Executar o Projeto
+Certifique-se de ter o **JDK (Java Development Kit)** instalado em sua máquina.
+
 1. Clone o repositório:
    ```bash
- git clone https://github.com/Guilhermematteus/sistema-notas.git
+   git clone [https://github.com/Guilhermematteus/sistema-notas.git](https://github.com/Guilhermematteus/sistema-notas.git)
